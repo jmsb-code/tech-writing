@@ -6,9 +6,7 @@ This project is a placeholder for future, awesome work.
    ```bash
    git clone https://github.com/username/repository.git
    ```
-
- #### Usage Instructions
-```markdown
+   
 ## Usage
 None yet :\)
 

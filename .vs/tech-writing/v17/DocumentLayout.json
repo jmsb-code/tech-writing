@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pjimm\\source\\repos\\tech-writing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjimm\\source\\repos\\tech-writing\\practice.r||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:practice.r||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practice.r",
+              "DocumentMoniker": "C:\\Users\\pjimm\\source\\repos\\tech-writing\\practice.r",
+              "RelativeDocumentMoniker": "practice.r",
+              "ToolTip": "C:\\Users\\pjimm\\source\\repos\\tech-writing\\practice.r",
+              "RelativeToolTip": "practice.r",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJRSURBVDhPfZPPaxNREMe/u5vfTVZDxR4E9SZSsQULiaA0lyZUTwoVetOD4H/Qa24VL1IwSC/26ElR0YsHBRtiPfRgKKGJiaaHGNJI84vdZH87u3nZNCp\u002BYN6bfTszO/NmlgMjGo2ejsVi13RdZydDfD4fV6lUqsVicZcdjbEsi2lAPB5PNhoNuVwuy\u002BTgSrValUul0q9UKnWXmU7Asx0eQhTFYCQSceWESHt4KhgOR6YzmczWnZWVe8zcxQ1A2VimacIwTDq0EPEBnGUCdBbkVagDCY83Np4lk8mJTDxsd\u002BA4HlN\u002BAZphYXNHws6BBpOqXDjrR1yUUNovYH19fasvy83tbPad7eNmwHEcvF76NgVZe9vB05yMasvAAclmrocn\u002BWksxBcxPzeHxURimbmNA9h4PF68/irh/Z6EMyHg1qUwli\u002BEMHtKQLbUx/PdPnhBsMsdMJfJDGjFl28yeNVAozmAoZmI\u002Bnm0jhQImo7P\u002B13Hlufd7k9mYMPpJjpHA3CaAT9dZquj0iUCvbYCY6ANbajMEX9kANyYF9Fu9iF3NeT22ni5fQhN1tGuS1iaDTo2x/k7wNUZrN2ewfdSGy/e/EQ\u002B38HHD3WsXg/h/s3zjg3ZuhM40UYbe5IfPriIxGURrz4dQtUNLF05idXUOeoQDQdxPIBLglpjD5OiKJaua7ZKmExoNXRLVVVHT6fTj5jbuASBsHf6eUgfJTbsjKPxAs2J19EDgYDfUQi3hG632ysUCj9onK3RffwLesfVarU6e2Thh9h6YKj\u002BF9tOITEA4DcKmgYZIUPPTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-27T05:21:46.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
